@@ -1,0 +1,18 @@
+[submodule "AdvancedSearchService"]
+	path = AdvancedSearchService
+	url = //192.168.136.66/WebApp$/GitServer/CMISBackendModules/AdvancedSearchService/
+[submodule "AuthService"]
+	path = AuthService
+	url = //192.168.136.66/WebApp$/GitServer/CMISBackendModules/AuthService
+[submodule "CMIS"]
+	path = CMIS
+	url = //192.168.136.66/WebApp$/GitServer/CMISBackendModules/CMIS
+[submodule "AdoNetLib"]
+	path = AdoNetLib
+	url = //192.168.136.66/WebApp$/GitServer/CMISBackendModules/SHEAREDLIB/AdoNetLib/
+[submodule "CMISSWAGGER"]
+	path = CMISSWAGGER
+	url = //192.168.136.66/WebApp$/GitServer/CMISBackendModules/SHEAREDLIB/CMISSWAGGER/
+[submodule "CMISUTILITY"]
+	path = CMISUTILITY
+	url = //192.168.136.66/WebApp$/GitServer/CMISBackendModules/SHEAREDLIB/CMISUTILITY
